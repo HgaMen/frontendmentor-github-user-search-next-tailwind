@@ -1,0 +1,3 @@
+https://unlighthouse.dev/
+
+npx unlighthouse --site https://bluuweb.dev
