@@ -1,0 +1,15 @@
+https://fontawesome.com/	Iconos y más
+
+https://react-svgr.com/playground/?typescript=true	convertir SVG a SVG JSX
+
+https://svgporn.com/#search=github	utilidad para vector logos
+
+https://tailwindcss.com/	Para CSS
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas	Uso de grid
+
+grid ruler 	extención de chrome que permite poner lineas
+
+
+
+
