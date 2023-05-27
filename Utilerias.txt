@@ -10,6 +10,11 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas	Uso de grid
 
 grid ruler 	extención de chrome que permite poner lineas
 
+https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight
+
+https://marketplace.visualstudio.com/items?itemName=leodriesch.paste-html-as-jsx
+
+
 
 
 
