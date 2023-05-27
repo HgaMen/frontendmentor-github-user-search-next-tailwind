@@ -5,10 +5,10 @@ import MoonIcon from "@/components/icons/MoonIcon";
 import { useEffect, useState } from "react";
 
 const initialThemeState = () => {
-    if (localStorage.getItem("theme")) {
-        return localStorage.getItem("theme") as "light" | "dark";
-    }
     if (typeof window !== "undefined") {
+        if (localStorage.getItem("theme")) {
+            return localStorage.getItem("theme") as "light" | "dark";
+        }
         return window.matchMedia("(prefers-color-scheme: dark)").matches
             ? "dark"
             : "light";
